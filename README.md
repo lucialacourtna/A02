@@ -13,7 +13,9 @@ For **MacOS**, go to WebStorm -> Settings -> Version Control -> GitHub and click
 More information about linking WebStorm and GitHub can be found here: https://www.jetbrains.com/help/webstorm/settings-version-control-github.html <br>
 
 <br>
+
 **Glossary** <br />
+
 **Branch** - A branch is a parallel version of a repository that allows you to make changes without changing the active version of the repository.<br />
 **Clone** - A clone is a duplicate of a repository stored on your comptuer instead of on a server. The remote clone is still linked to the original repository. This means that you can make changes through your editor of choice, and then push those changes back to the repository or vice versa.<br />
 **Commit** - A commit is a saved change to part of a repository. Commits should have a commit message describing the changes made for documentation. <br />
