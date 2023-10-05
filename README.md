@@ -1,7 +1,14 @@
 # A02
 **Tutorial**<br />
 <br />
-First, create a new GitHub account (here)[https://github.com/join]
+First, create a new **GitHub** account here: https://github.com/join <br />
+You can use GitHub from your browser, but if you want to download the desktop app you can do so here: https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop <br>
+If you want to work locally from your computer, you must download **Git**. You can find the download and  detailed instructions for install here: https://docs.github.com/en/get-started/quickstart/set-up-git <br>
+You can create your first repository immediately by clicking the "+" symbol on the right side of the upper toolbar, and then clicking "New repository" from the dropdown. You can learn more about repositories here: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories <br>
+**Webstorm** is a Javascript IDE that you can download to your computer here: https://www.jetbrains.com/webstorm/ <br>
+Through Webstorm, you can create new projects or migrate from another IDE. If you are just downloading Webstorm, it is reccommended that you go through their official documentation here: https://www.jetbrains.com/help/webstorm/meet-webstorm.html <br>
+
+
 <br />
 **Glossary**<br />
 **Branch** - A branch is a parallel version of a repository that allows you to make changes without changing the active version of the repository.<br />
