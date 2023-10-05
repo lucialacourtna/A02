@@ -1,7 +1,7 @@
 # A02
 **Tutorial**<br />
 <br />
-First, create a new GitHub account [here][https://github.com/join]
+First, create a new GitHub account (here)[https://github.com/join]
 <br />
 **Glossary**<br />
 **Branch** - A branch is a parallel version of a repository that allows you to make changes without changing the active version of the repository.<br />
